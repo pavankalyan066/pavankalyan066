@@ -6,6 +6,9 @@
 - 💬 Ask me about Machine Learning and Data Science
 - ⚡ I love music. I'm always humming or singing a tune to myself, even if I don’t realize it. And I always have a song stuck in my head
 
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavan9065/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavan9065/notebook/light)
+
 <!--
 **pavankalyan066/pavankalyan066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
