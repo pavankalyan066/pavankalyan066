@@ -6,9 +6,43 @@
 - 💬 Ask me about Machine Learning and Data Science
 - ⚡ I love music. I'm always humming or singing a tune to myself, even if I don’t realize it. And I always have a song stuck in my head
 
+## 🧰 Tool box
+
+### 👨🏽‍💻Programming
+
+![](https://img.shields.io/badge/code-Python-861AF7?logo=python&logoColor=white)
+![](https://custom-icon-badges.herokuapp.com/badge/code-SQL-861AF7?logo=database&logoColor=white)
+![](https://img.shields.io/badge/code-Markdown-861AF7?logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/code-Latex-861AF7?logo=latex&logoColor=white)
+
+![](https://img.shields.io/badge/package%20manager-Anaconda-861AF7?logo=Anaconda&logoColor=white)
+![](https://img.shields.io/badge/library-NumPy-861AF7?logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/library-pandas-861AF7?logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/ML-scikit%20learn-861AF7?logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/DL-Tensorflow-861AF7?logo=tensorflow&logoColor=white)
+![](https://custom-icon-badges.herokuapp.com/badge/data%20viz-matplotlib-861AF7?logo=matplotlib)
+![](https://img.shields.io/badge/data%20viz-seaborn-861AF7)
+
+![](https://img.shields.io/badge/OS-Windows-861AF7?logo=windows&logoColor=white)
+![](https://img.shields.io/badge/editor-PyCharm-861AF7?logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/version%20control-git-861AF7?logo=Git&logoColor=white)
+
+### 💻 Other
+
+![](https://img.shields.io/badge/browser-Google%20Chrome-861AF7?logo=Google%20Chrome&logoColor=white)
+![](https://img.shields.io/badge/communication-Slack-861AF7?logo=Slack&logoColor=white)
+![](https://img.shields.io/badge/communication-Meet-861AF7?logo=GoogleMeet&logoColor=white)
+![](https://img.shields.io/badge/spreadsheets-Microsoft%20Excel-861AF7?logo=Microsoft%20Excel&logoColor=white)
+![](https://img.shields.io/badge/word%20processing-Microsoft%20Word-861AF7?logo=Microsoft%20Word&logoColor=white)
+
+## Github stats
+
+[![Pavan Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankalyan066&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&hide=stars&show_icons=true&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Kaggle
+
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavan9065/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavan9065/notebook/light)
-
 
 ### Latest Blog Posts
 
