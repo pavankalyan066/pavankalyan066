@@ -33,7 +33,6 @@
 ![](https://img.shields.io/badge/communication-Slack-861AF7?logo=Slack&logoColor=white)
 ![](https://img.shields.io/badge/communication-Meet-861AF7?logo=GoogleMeet&logoColor=white)
 ![](https://img.shields.io/badge/spreadsheets-Microsoft%20Excel-861AF7?logo=Microsoft%20Excel&logoColor=white)
-![](https://img.shields.io/badge/word%20processing-Microsoft%20Word-861AF7?logo=Microsoft%20Word&logoColor=white)
 
 ## Github stats
 
