@@ -45,15 +45,11 @@
 
 ### Latest Blog Posts
 
+- [Classification of tweets using SpaCy](https://www.analyticsvidhya.com/blog/2022/01/classification-of-tweets-using-spacy/)
 - [A Comprehensive Guide on Power BI](https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-data-visualisation-with-power-bi/)
-- [A Comprehensive Guide on FEature Engineering](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-feature-engineering/)
+- [A Comprehensive Guide on Feature Engineering](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-feature-engineering/)
 - [A Comprehensive on Docker](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-docker-for-beginners/)
 - [A Complete Guide on ML Model Deployment](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/)
-- [Soccer Classification](https://www.analyticsvidhya.com/blog/2021/09/pycaret-vs-catboost-on-soccer-fever-classification-dataset/)
-- [Must Know Pandas Funstions](https://www.analyticsvidhya.com/blog/2021/08/must-know-pandas-functions-for-machine-learning-journey/)
-- [5 Cool Web Scraping Tools](https://www.analyticsvidhya.com/blog/2021/08/5-cool-web-scraping-tools-to-collect-data-for-your-next-project/)
-- [Feature Engineering Techniques](https://www.analyticsvidhya.com/blog/2021/07/feature-engineering-techniques-to-follow-in-machine-learning/)
-- [EDA](https://www.analyticsvidhya.com/blog/2021/06/know-the-basics-of-exploratory-data-analysis/)
 - [In To Machine Learning](https://medium.com/@pavankalyangb/into-machine-learning-after-a-year-of-effort-c19a7f26a25a?source=user_profile---------2-------------------------------)
 
 ### Find Me Here
