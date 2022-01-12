@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/code-Python-861AF7?logo=python&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/badge/code-SQL-861AF7?logo=database&logoColor=white)
 ![](https://img.shields.io/badge/code-Markdown-861AF7?logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/code-Latex-861AF7?logo=latex&logoColor=white)
 
 ![](https://img.shields.io/badge/package%20manager-Anaconda-861AF7?logo=Anaconda&logoColor=white)
 ![](https://img.shields.io/badge/library-NumPy-861AF7?logo=numpy&logoColor=white)
