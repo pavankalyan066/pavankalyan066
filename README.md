@@ -44,6 +44,7 @@
 
 ### Latest Blog Posts
 
+- [A Complete Guide on Kubernetes](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-kubernetes/)
 - [Classification of tweets using SpaCy](https://www.analyticsvidhya.com/blog/2022/01/classification-of-tweets-using-spacy/)
 - [A Comprehensive Guide on Power BI](https://www.analyticsvidhya.com/blog/2021/12/a-comprehensive-guide-on-data-visualisation-with-power-bi/)
 - [A Comprehensive Guide on Feature Engineering](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-feature-engineering/)
