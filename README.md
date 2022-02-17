@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Natural Language Processing and Computer  Vision
 - 🌱 I’m currently learning Django and AWS
 - 🤔 I’m looking for help with Cloud
 - 💬 Ask me about Machine Learning and Data Science
