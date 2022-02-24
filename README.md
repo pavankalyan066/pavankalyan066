@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Natural Language Processing and Computer  Vision
-- 🌱 I’m currently learning Django and AWS
-- 🤔 I’m looking for help with Cloud
+- 🔭 I’m currently working on Natural Language Processing and Computer Vision
+- 🌱 I’m currently learning NLP
+- 🤔 I’m looking for help with Cloud and Docker
 - 💬 Ask me about Machine Learning and Data Science
 - ⚡ I love music. I'm always humming or singing a tune to myself, even if I don’t realize it. And I always have a song stuck in my head
 
