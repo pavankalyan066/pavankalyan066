@@ -34,8 +34,9 @@
 ![](https://img.shields.io/badge/spreadsheets-Microsoft%20Excel-861AF7?logo=Microsoft%20Excel&logoColor=white)
 
 ## Github stats
-
 [![Pavan Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankalyan066&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&hide=stars&show_icons=true&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pavankalyan066)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Kaggle
 
