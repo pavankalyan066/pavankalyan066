@@ -44,6 +44,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pavan9065/notebook/light)
 
 ### Latest Blog Posts
+- [Quick Brief on Ensemble Learning](https://www.analyticsvidhya.com/blog/2022/05/know-about-ensemble-methods-in-machine-learning/)
 - [Fake News Classification](https://www.analyticsvidhya.com/blog/2022/03/fake-news-classification-using-deep-learning/)
 - [A Complete Guide on Kubernetes](https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-kubernetes/)
 - [Classification of tweets using SpaCy](https://www.analyticsvidhya.com/blog/2022/01/classification-of-tweets-using-spacy/)
