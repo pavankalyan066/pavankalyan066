@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Natural Language Processing and Computer Vision
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on LLM and Natural Language Processing
+- 🌱 I’m currently learning LLM Fine Tuning
 - 🤔 I’m looking for help with Cloud and Docker
 - 💬 Ask me about Machine Learning and Data Science
 - ⚡ I love music. I'm always humming or singing a tune to myself, even if I don’t realize it. And I always have a song stuck in my head
@@ -26,12 +26,6 @@
 ![](https://img.shields.io/badge/editor-PyCharm-861AF7?logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/version%20control-git-861AF7?logo=Git&logoColor=white)
 
-### 💻 Other
-
-![](https://img.shields.io/badge/browser-Google%20Chrome-861AF7?logo=Google%20Chrome&logoColor=white)
-![](https://img.shields.io/badge/communication-Slack-861AF7?logo=Slack&logoColor=white)
-![](https://img.shields.io/badge/communication-Meet-861AF7?logo=GoogleMeet&logoColor=white)
-![](https://img.shields.io/badge/spreadsheets-Microsoft%20Excel-861AF7?logo=Microsoft%20Excel&logoColor=white)
 
 ## Github stats
 [![Pavan Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankalyan066&title_color=FFFFFF&bg_color=000000&&text_color=861AF7&hide=stars&show_icons=true&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
